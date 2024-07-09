@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MysticX007
-   I’m interested in MERN and DEV
+- Interested in MERNstack
+- Part-time developer and part-time gamer
   
 <!---
 MysticX007/MysticX007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
